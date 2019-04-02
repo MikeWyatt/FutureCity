@@ -60,3 +60,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Rider (IntellIJ)
+.idea/**/contentModel.xml
+.idea/**/workspace.xml
+
+# Project-specific
+Assets/2DGamekit*
+
